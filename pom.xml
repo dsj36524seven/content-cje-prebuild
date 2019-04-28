@@ -9,7 +9,7 @@
   
   <name>Hello GoLang</name>
   <description>Simple 'Hello World!' GoLang example</description>
-  <url>https://github.com/raydac/mvn-golang</url>
+  <url>https://github.com/dsj36524seven/mvn-golang</url>
 
   <properties>
     <mvn.golang.go.version>1.10.2</mvn.golang.go.version>
